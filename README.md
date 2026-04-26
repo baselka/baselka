@@ -98,7 +98,11 @@
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=baselka&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/baselka)
+[![GitHub Trophies](https://github-trophies.vercel.app/?username=baselka&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/baselka)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=baselka&theme=react-dark&hide_border=true&area=true)](https://github.com/baselka)
 
 <br/>
 
